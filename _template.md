@@ -1,17 +1,17 @@
 
 ## Brief #000: { this week's fav title }
 
-### Excerpt: { other titles sum}
+### Excerpt: { other titles sum }
 
 ## This Week's Favorite
 
 [Title 1]() 
 
-{56 word summary}1
+{56 word summary}
 
 ----
 
-## Law Firm Business Development
+## Strategy
 
 [Title 2]()
 
@@ -30,7 +30,7 @@
 
 ----
 
-## Industry
+## Technology
 
 [Title 5]()
 
